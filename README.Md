@@ -4,6 +4,8 @@
 
 We will be using HTML, CSS, icons, background images to build a virtual credit card
 
+**Basic functionality:** The purpose is to build a template like credit card with a hover animation for both site visibility .
+
 
 This is what the app will look like, using the icons and images in the starter code of the project (see assets folder):  
 
