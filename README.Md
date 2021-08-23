@@ -4,9 +4,6 @@
 
 We will be using HTML, CSS, icons, background images to build a virtual credit card
 
-**Basic functionality:** we want to offer the user two options for ambient sound (rain and sea) during meditation. The user can enjoy the sound by picking one of three options of listening time (2, 5 or 10 minutes).
-
-**Additional functionality:** the user can see a timer countdown on the screen and video background is added to the app. This will require JavaScript.
 
 This is what the app will look like, using the icons and images in the starter code of the project (see assets folder):  
 
