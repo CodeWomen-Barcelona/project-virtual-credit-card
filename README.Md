@@ -1,4 +1,4 @@
-## Project Meditation App
+## Project Virtual Credit Card
 
 ### The goal of this project is to practice working with HTML and CSS
 
