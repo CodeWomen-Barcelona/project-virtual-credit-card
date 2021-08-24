@@ -16,7 +16,7 @@ This is what the app will look like, using the icons and images in the starter c
 
 ### For starters
 
-1. Create a new folder on your local computer with the name: project-virtual-credit-card
+1. Create a new folder on your local computer with the name: project-virtual-credit-card-app
 1. Track your code with Git by using `git init` in the terminal
 1. Create an index.html file with the general template code
 1. Create a style.css file and add this to your HTML file as `<link>` (check how to add CSS to an HTML file)
